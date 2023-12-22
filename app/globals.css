@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@layer base {
-  body {
-    @apply bg-blue-300 h-[100vh] flex items-center justify-center;
-  }
-}
